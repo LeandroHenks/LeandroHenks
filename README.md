@@ -110,7 +110,7 @@ Sou formado em cursos de desenvolvimento web e back-end, tendo estudado tecnolog
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="140" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LeandroHenks&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -118,7 +118,7 @@ Sou formado em cursos de desenvolvimento web e back-end, tendo estudado tecnolog
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="181" 
+      height="140" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHenks&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 </p>
