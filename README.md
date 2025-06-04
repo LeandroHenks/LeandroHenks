@@ -2,9 +2,11 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Leandro, sou natural de Osasco - SP e tenho experiência tanto na área de e-commerce quanto no desenvolvimento de software. Já atuei como Analista de E-commerce, trabalhando com ferramentas como Power BI, Excel, Power Query, M, DAX e VBA. Atualmente, estou me dedicando ao desenvolvimento back-end, com foco em C# e .NET.
+Me chamo Leandro, sou desenvolvedor em formação e atualmente curso Análise e Desenvolvimento de Sistemas na UNIP. Tenho me dedicado especialmente ao back-end, com foco em C# e .NET, além de construir APIs RESTful utilizando boas práticas e padrões de projeto.
 
-Sou formado em cursos de desenvolvimento web e back-end, tendo estudado tecnologias como Python (com Django REST), JavaScript, Node.js, Express, React, HTML5, CSS e C#. Tenho especial interesse pela criação de APIs RESTful e pela arquitetura de sistemas robustos. Estou sempre buscando evoluir como Desenvolvedor Full Stack, com preferência por desafios no back-end.
+Estudo e desenvolvo projetos com diversas tecnologias, incluindo Python (com Django REST), JavaScript, Node.js, Express, React, HTML5 e CSS. Também possuo familiaridade com bancos de dados relacionais e versionamento com Git.
+
+Sou apaixonado por tecnologia e estou em constante evolução como Desenvolvedor Full Stack, com preferência por desafios no back-end e interesse em arquitetura de sistemas e soluções escaláveis..
 
 <p align="left">
     <a href="https://www.linkedin.com/in/leandro-soares-9b146a1a3/">
