@@ -14,6 +14,13 @@ Sou formado em cursos de desenvolvimento web e back-end, tendo estudado tecnolog
             src="https://custom-icon-badges.demolab.com/badge/-linkedin.-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+      <a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dgo-to-account-button%26gar%3DWzEzMywiMjM2NzM2Il0%26sl%3Dtrue&ifkv=AdBytiPbkkvdfgHW4zV0ZZCIW2XtKH55SA4fSRrm99d6sl-BgMsJJhRirBjUvCb2Ill9oT19JExnlw&service=accountsettings&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1069848339%3A1749067847819564">
+        <img 
+            alt="Seguidores" 
+            title="Meu Email: leandrosoaresddr@gmail.com" 
+            src="https://custom-icon-badges.demolab.com/badge/-Email-teal?style=for-the-badge&logo=email&logoColor=white"
+        />
+    </a>
     </a>
     <a href="https://www.instagram.com/leandro_soaresl/">
         <img 
@@ -119,6 +126,6 @@ Sou formado em cursos de desenvolvimento web e back-end, tendo estudado tecnolog
       align="left" 
       alt="GitHub Stats" 
       height="140" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHenks&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroHenks&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 </p>
