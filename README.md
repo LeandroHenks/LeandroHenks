@@ -4,7 +4,7 @@
 
 Me chamo Leandro, sou desenvolvedor em formação e atualmente curso Análise e Desenvolvimento de Sistemas na UNIP. Tenho me dedicado especialmente ao back-end, com foco em C# e .NET, além de construir APIs RESTful utilizando boas práticas e padrões de projeto.
 
-Estudo e desenvolvo projetos com diversas tecnologias, incluindo Python (com Django REST), JavaScript, Node.js, Express, React, HTML5 e CSS. Também possuo familiaridade com bancos de dados relacionais e versionamento com Git.
+Estudo e desenvolvo projetos com diversas tecnologias, incluindo Python (com Django REST), JavaScript, Node.js, Express, Angular, HTML5 e CSS. Também possuo familiaridade com bancos de dados relacionais e versionamento com Git.
 
 Sou apaixonado por tecnologia e estou em constante evolução como Desenvolvedor Full Stack, com preferência por desafios no back-end e interesse em arquitetura de sistemas e soluções escaláveis.
 
